@@ -1,0 +1,8 @@
+{
+	"name": "Github",
+	"url": "github.com",
+	"ssl": true,
+	"sms": true,
+	"email": false,
+	"key": true
+}

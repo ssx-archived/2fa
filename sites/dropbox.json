@@ -1,0 +1,8 @@
+{
+	"name": "Dropbox",
+	"url": "dropbox.com",
+	"ssl": true,
+	"sms": true,
+	"email": true,
+	"key": true
+}
