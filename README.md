@@ -30,7 +30,7 @@ only two which are required at the moment. Any keys which have the value
 'false' may be omitted. The keys the current list of valid keys are:
 
 Key 		| Required	| Explanation
------------ | ----------------------------------------------
+----------- | --------- | ----------------------------------------------
 name    	| Yes		| The human readable name of the website/service
 type		| Yes		| One of 'website' or 'software'
 url  		| No 		| The base URL of the website
