@@ -1,5 +1,5 @@
 # 2fa
-This is a human contributed project detailing a list of websites and software 
+This is a human curated project detailing a list of websites and software 
 supporting two factor authentication.
 
 See the `sites/` directory for examples of configuration. The format of these 
