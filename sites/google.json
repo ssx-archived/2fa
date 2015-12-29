@@ -1,8 +1,9 @@
 {
 	"name": "Google",
 	"url": "google.com",
+	"type": "website",
 	"ssl": true,
 	"sms": true,
-	"email": false,
-	"key": true
+	"google": true,
+	"hardware": true
 }

@@ -46,7 +46,7 @@ hardware  	| No 		| Support for hardware 2FA?
 ### Contribute
 
 If you have any comments, ideas or questions then please open an issue or PR 
-and we can discuss from there/
+and we can discuss.
 
 
 
