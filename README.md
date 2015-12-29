@@ -17,8 +17,8 @@ The Google example contains the following:
 
 	{
 		"name": "Google",
-		"type": "website",
 		"url": "google.com",
+		"type": "website",
 		"ssl": true,
 		"sms": true,
 		"google": true,
