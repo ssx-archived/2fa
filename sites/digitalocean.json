@@ -1,0 +1,8 @@
+{
+	"name": "Digital Ocean",
+	"url": "digitalocean.com",
+	"type": "website",
+	"ssl": true,
+	"sms": true,
+	"google": true
+}
